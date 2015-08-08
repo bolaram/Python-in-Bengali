@@ -1,0 +1,9 @@
+{
+    "name": "python in bengali",
+    "version": "1.0.0",
+    "description": "",
+    "author": "Bolaram Paul",
+    "dependencies": {
+        "gitbook-plugin-disqus": "0.0.1"
+    }
+}
